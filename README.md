@@ -44,6 +44,7 @@ The project is composed of the following four elements:
 - [CooSpo heart rate monitor HW706](http://www.coospo.com/monitoring/31.html).
 
 The following diagram illustrates the basic structure and connections of the hardware components in the project: 
+
 ![Overview](Images/Overview.png)
 
 To start the application:
