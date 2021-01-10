@@ -54,7 +54,7 @@ To start the application:
 
 ## Development
 The following software was used to create this project:
-- Unity-Project:
+- VR application:
   - Unity (Version 2018.4.10)
   - Unity Assets: Aura 2, TextMesh Pro, Universal Sound FX, Free Casual Game SFX, Unity Particle Pack 5.x
   - Blender (Version 2.80)
